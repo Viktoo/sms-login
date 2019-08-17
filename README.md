@@ -10,6 +10,7 @@ Here's a redesigned and rebuilt implementation using **React.js**. I highly reco
 
 ## Usage
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>
